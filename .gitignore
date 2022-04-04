@@ -2,3 +2,5 @@ fanuc.sln.DotSettings.user
 .idea/
 fanuc/bin/
 fanuc/obj/
+/.vs
+/fanuc/fanuc.csproj.user
